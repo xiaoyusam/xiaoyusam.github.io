@@ -1,0 +1,327 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="renderer" content="webkit">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="小宇のBlog">
+  <title>小宇のBlog &#8211; 小宇</title>
+  <link rel="shortcut icon" href="https://bbs.0a0.asia/wp-content/uploads/2025/04/1b7bd83bb720250405104846-150x150.png" type="image/x-icon">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/css/main.css?ver=1.5.1">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/css/format.css?ver=1.5.1">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/css/main-m.css?ver=1.5.1">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/fancybox/fancybox.css?ver=1.5.1">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/syntaxy/syntaxy.light.min.css?ver=1.5.1">
+  <link rel="alternate stylesheet preload" as="style" data-dark href="https://yangy.co/wp-content/themes/modules/assets/syntaxy/syntaxy.dark.min.css?ver=1.5.1">
+  <link rel="stylesheet preload" as="style" href="https://yangy.co/wp-content/themes/modules/assets/iconfont/iconfont.css?ver=1.5.1">
+  <script src="https://yangy.co/wp-content/themes/modules/assets/js/theme-mode.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/iconfont/iconfont.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/js/pjax-api.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/js/scrollreveal.min.js?ver=1.5.1"></script>
+  
+    <style>
+      :root {
+        --theme-color-pri: #ed667e;
+        --theme-color-sub: #ffc0cb;
+        --theme-color-op70: #ed667eb3;
+        --theme-color-op50: #ed667e80;
+        --theme-color-op30: #ed667e4d;
+        --theme-color-op20: #ed667e33;
+        --theme-color-op10: #ed667e1a;
+        --theme-color-op15: #ed667e26;
+        --theme-color-op05: #ed667e0d;
+      }
+    </style>
+    <script>let loading_img = "https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif"</script>    <!--AI摘要-->
+<link rel="stylesheet" href="https://ai.tianli0.top/static/public/tianli_gpt.min.css">
+<script>
+let tianliGPT_postSelector ='#postchat_postcontent';
+let tianliGPT_key = 'GNj8n23zfiO';
+let tianliGPT_theme = 'yanzhi';
+</script>
+<script src="https://yangy.co/wp-content/uploads/2024/12/tianli_gpt.min.js "></script>
+
+
+
+<script type="text/javascript">
+        window.onload = function(){
+            //屏蔽键盘事件
+            document.onkeydown = function (){
+                var e = window.event || arguments[0];
+                //F12
+                if(e.keyCode == 123){
+                    return false;
+                //Ctrl+Shift+I
+                }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)){
+                    return false;
+                //Shift+F10
+                }else if((e.shiftKey) && (e.keyCode == 121)){
+                    return false;
+                //Ctrl+U
+                }else if((e.ctrlKey) && (e.keyCode == 85)){
+                    return false;
+                }
+            };
+            //屏蔽鼠标右键
+            document.oncontextmenu = function (){
+                return false;
+            }
+        }
+    </script>
+
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "pfirrh178u");
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DV8PVJQGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DV8PVJQGF7');
+</script>
+
+<!--百度统计-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?cffe8701bdcbbdaf601bc59d81436dfb";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+  <style>img.litespeed-loaded{
+    -webkit-transition: opacity .5s linear 0.2s;
+    -moz-transition: opacity .5s linear 0.2s;
+    transition: opacity .5s linear 0.2s;
+    opacity: 1;
+}</style></head>
+<body>
+  <div class="container">
+        <script>let def_img = 'https://yangy.co/wp-content/themes/modules/assets/images/default-cover.jpg';</script>
+    <main id="pjax-box" class="home1 active">
+      <div class="overlay"></div>
+      <header class="header-reveal">        <div class="navbar">
+          <nav>
+            <div class="nav-menu">
+              <div class="left">
+                <div class="menu-btn">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <div class="title">
+                  <a href="https://yangy.co">小宇のBlog</a>
+                </div>
+                <div class="menu-group">
+                  <div class="menu-div"><ul id="menu" class="menu"><li id="menu-item-734" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-734"><a href="/" aria-current="page">🏠 首页</a></li>
+</ul></div>                </div>
+              </div>
+              <div class="right">
+                <form class="search" action="https://www.baidu.com/s?wd=">
+  <input id="search" type="text" value="" name="wd" placeholder="使用百度引擎搜索..." required autocomplete="off">
+  <button><svg class="icon" aria-hidden="true"><use xlink:href="#icon-search-circle"></use></svg></button>
+</form>                <div class="toc-btn"></div>
+                <div class="user">
+                  <div class="box">
+                    <svg class="icon" aria-hidden="true">
+                      <use xlink:href="#icon-user-6-fill"></use>
+                    </svg>
+                  </div>
+                  <box class="info">
+                    <div class="top">
+                                            <div class="avatar">
+                        <img src="https://bbs.0a0.asia/wp-content/uploads/2025/04/1b7bd83bb720250405104846-150x150.png" alt="">
+                      </div>
+                      <div class="msg">
+                        <h2 class="name" title="小宇">小宇</h2>
+                                              </div>
+                    </div>
+                  </box>
+                </div>
+              </div>
+            </div>
+            <div class="nav-title">
+              <span>
+                <h2>
+                  <p>
+                  小宇のBlog                  </p>
+                  <div class="backtop">返回顶部</div>
+                </h2>
+              </span>
+            </div>
+          </nav>
+        </div>
+      </header>
+    
+  
+
+<section class="home1-bannar">
+  <div class="screen">
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+    <div class="imgbox">
+      <img src="/wp-content/uploads/2025/02/138.webp" alt="">
+      <div class="nav-news">
+        <div class="text">
+                    <h1><h1>小宇<span>Blog</span></h1></h1>
+          <p><p>欢迎来到<span>小宇</span>の小小Blog  ~AwA~</p></p>
+        </div>
+      </div>
+    </div>
+          <div class="waves-box">
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+          <defs>
+            <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+          </defs>
+          <g class="parallax">
+            <use xlink:href="#gentle-wave" x="48" y="0"/>
+            <use xlink:href="#gentle-wave" x="48" y="3"/>
+            <use xlink:href="#gentle-wave" x="48" y="5"/>
+            <use xlink:href="#gentle-wave" x="48" y="7"/>
+          </g>
+        </svg>
+      </div>
+      </div>
+</section>
+
+<section class="home1-newest">
+  <div class="screen">
+    <div class="screen-title main-reveal">Newest</div>
+    <div class="warp">
+      <div class="tab main-reveal">
+        <ul>
+          <li class="active">博主</li>
+          <div class="slider"></div>
+        </ul>
+      </div>
+      <div class="main-reveal">
+        <ul class="content">
+          <li class="bloger"><div class="warp"><div class="info main-reveal"><div class="avatar"><img src="https://bbs.0a0.asia/wp-content/uploads/2025/04/1b7bd83bb720250405104846-150x150.png" alt=""></div><div class="n-d"><div class="name">小宇</div></div></div>
+  </div></li>
+          <li class="post"><ul><li class="item"><a href="https://yangy.co/archives/718"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?1" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e6%97%a5%e5%b8%b8">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 日常</span></div><div class="title" title="芜~封机了">芜~封机了</div></div><div class="date">2025年1月6日</div></div></a></li><li class="item"><a href="https://yangy.co/archives/713"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?2" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e5%88%86%e4%ba%ab">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 分享</span><span class="url" data-href="https://yangy.co/archives/category/%e6%88%91%e7%9a%84%e4%b8%96%e7%95%8c">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 我的世界</span></div><div class="title" title="我的世界3D图腾制作">我的世界3D图腾制作</div></div><div class="date">2024年12月24日</div></div></a></li><li class="item"><a href="https://yangy.co/archives/709"><div class="cover"><img lazyload data-src="https://yangy.co/wp-content/uploads/2024/12/20240615181509199-image-71.webp?3" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e5%88%86%e4%ba%ab">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 分享</span><span class="url" data-href="https://yangy.co/archives/category/%e6%95%99%e7%a8%8b">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 教程</span></div><div class="title" title="html网站底部美化代码 支持任意网站">html网站底部美化代码 支持任意网站</div></div><div class="date">2024年12月20日</div></div></a></li><li class="item"><a href="https://yangy.co/archives/593"><div class="cover"><img lazyload data-src="https://yangy.co/wp-content/uploads/2024/12/20240121220226770-image-85.webp?4" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e5%88%86%e4%ba%ab">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 分享</span></div><div class="title" title="分享几个链接跳转页面">分享几个链接跳转页面</div></div><div class="date">2024年12月18日</div></div></a></li><li class="item"><a href="https://yangy.co/archives/579"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?5" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e6%97%a5%e5%b8%b8">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 日常</span></div><div class="title" title="水水水水水水水水水">水水水水水水水水水</div></div><div class="date">2024年12月16日</div></div></a></li><li class="item"><a href="https://yangy.co/archives/572"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?6" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ><span class="url" data-href="https://yangy.co/archives/category/%e6%97%a5%e5%b8%b8">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-folder-full"></use></svg> 日常</span></div><div class="title" title="记录CDN节点的突变">记录CDN节点的突变</div></div><div class="date">2024年12月16日</div></div></a></li></ul></li>          <li class="moment"><ul class="group"><li class="item"><a href="/moments/page/1#moment_150"><div class="date">发布于：2024年11月30日 08:46</div><div class="text"><!-- wp:paragraph -->
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></a></li></ul></li>          <li class="comment"><ul><li><a href="https://yangy.co/archives/593#comment_reply=21"><div class="info"><div class="avatar"><img src="https://cravatar.cn/avatar/65ca400e1ca12bea6dde865d6dbbbd68?s=400&d=mp" alt=""></div><div class="msg"><div class="name">随风</div><div class="date">2025年01月27日 16:14</div></div></div><div class='text' title='不错呀😋'><p>不错呀😋</p></div></a></li><li><a href="https://yangy.co/archives/526#comment_reply=20"><div class="info"><div class="avatar"><img src="https://q1.qlogo.cn/g?b=qq&nk=3531772402&s=640" alt=""></div><div class="msg"><div class="name">小宇</div><div class="date">2025年01月02日 15:50</div></div></div><div class='text' title='ฅ՞•ﻌ•՞ฅ'><span class='at'>@幽默的小刘吖：</span><p>ฅ՞•ﻌ•՞ฅ</p></div></a></li><li><a href="https://yangy.co/archives/526#comment_reply=19"><div class="info"><div class="avatar"><img src="https://cravatar.cn/avatar/34e3eb49dae8f88f5d980b1ece3aa3b7?s=400&d=mp" alt=""></div><div class="msg"><div class="name">幽默的小刘吖</div><div class="date">2024年12月28日 13:50</div></div></div><div class='text' title='666😀'><p>666😀</p></div></a></li><li><a href="https://yangy.co/?p=602#comment_reply=18"><div class="info"><div class="avatar"><img src="https://q1.qlogo.cn/g?b=qq&nk=3893278529&s=640" alt=""></div><div class="msg"><div class="name">笨蛋在道歉之前...</div><div class="date">2024年12月20日 14:11</div></div></div><div class='text' title='形容的还真五味俱全啊'><p>形容的还真五味俱全啊</p></div></a></li><li><a href="https://yangy.co/archives/152#comment_reply=10"><div class="info"><div class="avatar"><img src="https://bbs.0a0.asia/wp-content/uploads/2025/04/1b7bd83bb720250405104846-150x150.png" alt=""></div><div class="msg"><div class="name">小宇</div><div class="date">2024年12月15日 13:15</div></div></div><div class='text' title='👀'><span class='at'>@小：</span><p>👀</p></div></a></li><li><a href="https://yangy.co/archives/152#comment_reply=12"><div class="info"><div class="avatar"><img src="https://q1.qlogo.cn/g?b=qq&nk=2667212290&s=640" alt=""></div><div class="msg"><div class="name">1</div><div class="date">2024年12月15日 11:33</div></div></div><div class='text' title='😁😁'><p>😁😁</p></div></a></li></ul></li>                    <li class="gallery"><ul><li class="item"><a href="https://yangy.co/gallery/sjacg"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?1" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ></div><div class="title" title="手机次元图">手机次元图</div></div><div class="date">2024年12月7日</div></div></a></li><li class="item"><a href="https://yangy.co/gallery/pcacg"><div class="cover"><img lazyload data-src="https://t.alcy.cc/fj?2" src="https://yangy.co/wp-content/themes/modules/assets/images/loading/loading4.gif" alt=""></div><div class="info"><div class="top"><div class="cate" ></div><div class="title" title="电脑次元图">电脑次元图</div></div><div class="date">2024年11月30日</div></div></a></li></ul></li>                  </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="lastest home1-sticky">
+    <div class="screen">
+        <div class="screen-title main-reveal">Top up</div>
+      <ul>
+            <div class="screen-title main-reveal">等待写入</div>
+                      </ul>
+    </div>
+  </section>
+
+    </main>
+    <footer id="pjax-box-footer">
+      <section>
+        <nav>
+          <div class="logo">
+            <a href="www.baidu.com">
+              <img src="https://bbs.0a0.asia/wp-content/uploads/2025/04/1b7bd83bb720250405104846-150x150.png" alt="">
+              <span>小宇のBlog</span>
+            </a>
+          </div>
+          <div class="lighting">
+            <ul>
+              <li data-theme-color="light">Light</li>
+              <li data-theme-color="dark">Dark</li>
+              <li data-theme-color="system">Auto</li>
+              <div class="slider"></div>
+            </ul>
+          </div>
+        </nav>
+        
+        <div class="powered">Powered by <a href="//wordpress.org/" target="_blank">WordPress</a> & Designed by <a href="//oyiso.cn" >Oyiso</a></div>
+
+<br>
+
+<style>
+.github-badge {
+  display: inline-block;
+  border-radius: 4px;
+  text-shadow: none;
+  font-size: 12px;
+  color: #fff;
+  line-height: 15px;
+  background-color: #abbac3;
+  margin-bottom: 5px
+}
+.github-badge .badge-subject {
+  display: inline-block;
+  background-color: #ffa500;
+  padding: 4px 4px 4px 6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px
+}
+.github-badge .badge-value {
+  display: inline-block;
+  padding: 4px 6px 4px 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px
+}
+.github-badge .bg-fen {
+  background-color: #e76dcb
+}
+.github-badge .bg-red {
+  background-color: #6e93d0
+}
+.github-badge .bg-green {
+  background-color: #3bca6e
+}
+
+.github-badge .bg-cai {
+    background-image: -webkit-linear-gradient(
+0deg, #3ca5f6 0%, #a86af9 100%);
+</style>
+<br>
+<!--
+<div class="github-badge">
+  <span class="badge-subject">Frame</span>
+  <a style="color:#fff" href="https://cn.wordpress.org/" rel="external nofollow"  target="_blank">
+    <span class="badge-value bg-red">WordPress</span></a>
+</div>
+--></div>      </section>
+    </footer>
+  </div>
+
+  <script src="https://yangy.co/wp-content/themes/modules/assets/fancybox/fancybox.umd.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/syntaxy/syntaxy.min.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/js/theme.js?ver=1.5.1"></script>
+  <script src="https://yangy.co/wp-content/themes/modules/assets/js/smoothScroll.js?ver=1.5.1"></script>  <script>console.log('62 queries in 0.236s');</script>
+  <script>//禁用页面的ctrl功能，来禁止ctrl+s保存功能
+window.addEventListener('keydown', function (e) {
+    if(e.keyCode == 83 && (navigator.platform.match('Mac') ? e.metaKey : e.ctrlKey)){
+        e.preventDefault();
+    }
+})
+</script></body>
+</html>
